@@ -1,0 +1,9 @@
+body {
+    background-color:rgb(230, 177, 173); text-align: center;
+}
+form option {
+background-color: rgba(255, 0, 0, 0.363);
+}
+body form {
+    background-image: url("images/form.jpg");
+}
